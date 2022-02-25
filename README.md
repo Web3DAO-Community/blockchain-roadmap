@@ -127,7 +127,7 @@ You can then follow this up with "Mastering Ethereum". As a Dapp developer speci
   <a href="https://discord.io/web3dao">
     <img width="40px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
-  <a href="https://twitter.com/Web3DAO_">
+  <a href="https://twitter.com/HackThisWeb3">
     <img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
 <br/><br/>
