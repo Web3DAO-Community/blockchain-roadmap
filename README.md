@@ -55,6 +55,7 @@ You can then follow this up with "Mastering Ethereum". As a Dapp developer speci
 
 | Title | Content | Link
 | --- | --- | ---|
+| **Blockchain Books** | Blockchain Books to help people learn and become Awesome | <https://github.com/BlockchainBooks/blockchainbooks.github.io>
 | **Mastering Bitcoin** | Mastering Bitcoin is a book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters to get a great understanding of bitcoin. | <https://github.com/bitcoinbook/bitcoinbook>
 | **Mastering Ethereum** | Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK), and other compatible EVM-based open blockchains. | <https://github.com/ethereumbook/ethereumbook>
 
